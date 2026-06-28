@@ -2,7 +2,7 @@
 
 # Customer Churn Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes customer churn using the Telco Customer Churn dataset. The goal is to identify the factors that influence customer churn and present actionable insights through data analysis and an interactive Power BI dashboard.
 
@@ -32,7 +32,7 @@ Customer-Churn-Analysis/
 
 ---
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 - Python
 - Power BI
@@ -40,14 +40,14 @@ Customer-Churn-Analysis/
 
 ---
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 <img width="867" height="642" alt="Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/69351d3c-01c6-4369-8b08-4f1418738aa9" />
 
 
 ---
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 - Churn Overview
 - Customer Distribution
@@ -58,7 +58,7 @@ Customer-Churn-Analysis/
 
 ---
 
-📈 Key Insights
+## 📈 Key Insights
 
 - Month-to-Month customers have the highest churn rate.
 - Customers with shorter tenure are more likely to churn.
@@ -67,6 +67,6 @@ Customer-Churn-Analysis/
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Shahzan Ali
