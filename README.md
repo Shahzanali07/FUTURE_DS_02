@@ -1,15 +1,15 @@
 # FUTURE_DS_02
 
-# Customer Churn Analysis
+Customer Churn Analysis
 
-## 📌 Project Overview
-This project analyzes customer churn using the Telco Customer Churn dataset. The goal is to identify the factors that influence customer churn and present the insights through data analysis and an interactive Power BI dashboard.
+📌 Project Overview
+
+This project analyzes customer churn using the Telco Customer Churn dataset. The goal is to identify the factors that influence customer churn and present actionable insights through data analysis and an interactive Power BI dashboard.
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
-```
 Customer-Churn-Analysis/
 │
 ├── churn_analysis.py
@@ -18,18 +18,32 @@ Customer-Churn-Analysis/
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── clean_telco_churn.csv
 ├── README.md
+├── churn analysis.png
 │
-└── Visualizations
-    ├── contract_vs_churn.png
-    ├── internet_service_vs_churn.png
-    ├── monthly_charges_vs_churn.png
-    ├── payment_method_vs_churn.png
-    └── tenure_vs_churn.png
-```
+├── contract_vs_churn.png
+├── internet_service_vs_churn.png
+├── monthly_charges_vs_churn.png
+├── payment_method_vs_churn.png
+└── tenure_vs_churn.png
 
 ---
 
-## 📊 Dashboard Features
+🛠️ Tools Used
+
+- Python
+- Power BI
+- GitHub
+
+---
+
+📊 Dashboard Preview
+
+"Customer Churn Dashboard" (Churn Analysis Dashboard.PDF)
+
+---
+
+📊 Dashboard Features
+
 - Churn Overview
 - Customer Distribution
 - Monthly Charges Analysis
@@ -39,14 +53,15 @@ Customer-Churn-Analysis/
 
 ---
 
-## 📈 Key Insights
-- Month-to-month customers have higher churn.
+📈 Key Insights
+
+- Month-to-Month customers have the highest churn rate.
 - Customers with shorter tenure are more likely to churn.
 - Higher monthly charges are associated with increased churn.
-- Contract type significantly impacts customer retention.
+- Long-term contracts improve customer retention.
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Shahzan Ali**
+Shahzan Ali
