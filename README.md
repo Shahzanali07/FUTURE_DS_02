@@ -10,22 +10,24 @@ This project analyzes customer churn using the Telco Customer Churn dataset. The
 
 ## 📂 Project Structure
 
-
+```text
 Customer-Churn-Analysis/
 │
 ├── churn_analysis.py
 ├── churn analysis.pbix
-├── Churn Analysis Dashboard.pdf
+├── Churn Analysis Dashboard.PDF
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── clean_telco_churn.csv
 ├── README.md
+├── churn analysis.png
 │
-└── Visualizations
+└── visuals/
     ├── contract_vs_churn.png
     ├── internet_service_vs_churn.png
     ├── monthly_charges_vs_churn.png
     ├── payment_method_vs_churn.png
     └── tenure_vs_churn.png
+```
 
 
 ---
