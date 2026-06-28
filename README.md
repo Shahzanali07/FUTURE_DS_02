@@ -8,7 +8,7 @@ This project analyzes customer churn using the Telco Customer Churn dataset. The
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 Customer-Churn-Analysis/
 │
