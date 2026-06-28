@@ -38,8 +38,8 @@ Customer-Churn-Analysis/
 
 📊 Dashboard Preview
 
-"Customer Churn Dashboard" (<img width="867" height="642" alt="Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/69351d3c-01c6-4369-8b08-4f1418738aa9" />
-)
+<img width="867" height="642" alt="Churn Analysis Dashboard" src="https://github.com/user-attachments/assets/69351d3c-01c6-4369-8b08-4f1418738aa9" />
+
 
 ---
 
